@@ -45,14 +45,3 @@ if(a.includes(5)){
    job:"Developer",
    hobbies:[1,2,3]
 };
-   
-
-
-
-
-
-
-
-
-
-
