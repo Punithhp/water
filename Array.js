@@ -36,3 +36,23 @@ a.includes(4);
 if(a.includes(5)){
     let numberString='Five';
 };
+//Objects 
+//in arrays we can access items using indes or orders but in object we assign a key to every value 
+ let obj={
+   firstName:"punith",
+   lastName:'H P",
+   age:22,
+   job:"Developer",
+   hobbies:[1,2,3]
+};
+   
+
+
+
+
+
+
+
+
+
+
